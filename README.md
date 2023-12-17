@@ -1,4 +1,4 @@
-# Relogio Digial
+# Relogio Digital
 
 O objetivo é  mostrar um relogio digital funcional na tela
 
