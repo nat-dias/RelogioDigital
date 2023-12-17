@@ -1,6 +1,6 @@
 # Relogio Digial
 
-O objetivo é  mostrar um relogio digital duncional na tela
+O objetivo é  mostrar um relogio digital funcional na tela
 
 ### 🏁 Para rodar localmente o projeto:
 Clone este repositório em sua máquina:
